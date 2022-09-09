@@ -52,24 +52,24 @@ global.sdc = 'https://chat.whatsapp.com/KNkpoT4oX5yFA18GlPttgl'
 global.snh = 'https://chat.whatsapp.com/KNkpoT4oX5yFA18GlPttgl'
 
 /*============== PAYMENT ==============*/
-global.pdana = '089515023118'
-global.povo = '089515023118'
-global.pgopay = '089515023118'
-global.ppulsa = '0895413767627'
-global.ppulsa2 = '088991489057'
+global.pdana = '089510598381'
+global.povo = '089510598381'
+global.pgopay = '089510598381'
+global.ppulsa = '089510598381'
+global.ppulsa2 = '-'
 global.psaweria = 'https://saweria.com/DonateBot'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '62895413767627'
-global.nomorown = '17242332244'
-global.namebot = 'CekilXD'
-global.nameown = 'CekilXD'
+global.nomorown = '6289510598381'
+global.namebot = '𝒁𝒆𝒏𝒏𝑺𝒌𝒚-𝑩𝒐𝒕𝒛'
+global.nameown = 'YogzFX'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['17242332244', 'Sewa Bot', true],
-  ['17242332244', 'Owner Gweh', true] //Ganti jd nomormu sama Namamu
+  ['6289510598381', 'Sewa Bot', true],
+  ['6289510598381', 'Owner Gweh', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -114,13 +114,13 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 Cekil-XD 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Cekil-XD ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ Cekil-XD '
+global.wm = '                「 𝒁𝒆𝒏𝒏𝑺𝒌𝒚-𝑩𝒐𝒕𝒛 」' //Main Watermark
+global.wm2 = '© 𝒁𝒆𝒏𝒏𝑺𝒌𝒚-𝑩𝒐𝒕𝒛'
+global.wm3 = '⫹⫺ YogzFX '
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By CekilGanz`
-global.author = '                「 Cekil - Xd  あ⁩ 」'
+global.titlebot = `⫹⫺ WhatsApp Bot | By YogzFX`
+global.author = '                「 𝒁𝒆𝒏𝒏𝑺𝒌𝒚-𝑩𝒐𝒕𝒛  あ⁩ 」'
 
 
 /*============== LOGO ==============*/
@@ -188,8 +188,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'Cekil-XD'
-global.stickauth = `By ©CekilXD`
+global.stickpack = 'Created By 𝒁𝒆𝒏𝒏𝑺𝒌𝒚-𝑩𝒐𝒕𝒛'
+global.stickauth = `@YogzFX`
 
 global.multiplier = 38 // The higher, The harder levelup
 
