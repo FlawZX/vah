@@ -45,11 +45,11 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/cekilgans'
-global.sgh = 'https://cekilgans.github.io'
-global.sgc = 'https://chat.whatsapp.com/CF4jm8T9FVx5MnD037B1nN'
-global.sdc = 'https://chat.whatsapp.com/CF4jm8T9FVx5MnD037B1nN'
-global.snh = 'https://chat.whatsapp.com/CF4jm8T9FVx5MnD037B1nN'
+global.sig = 'https://instagram.com/karfuanyogich'
+global.sgh = 'https://github.com/ZennSky'
+global.sgc = 'https://chat.whatsapp.com/KNkpoT4oX5yFA18GlPttgl'
+global.sdc = 'https://chat.whatsapp.com/KNkpoT4oX5yFA18GlPttgl'
+global.snh = 'https://chat.whatsapp.com/KNkpoT4oX5yFA18GlPttgl'
 
 /*============== PAYMENT ==============*/
 global.pdana = '089515023118'
